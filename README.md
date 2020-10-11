@@ -1,4 +1,4 @@
-# Manual Dependency Injection
+# Dependency Injection
 At first, I was confused too, what is dependency injection
 and why is it important in programming? 
 
